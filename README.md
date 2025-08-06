@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**ranogna/ranogna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# �� Hi there, I&#39;Ranogna!-  �� Currently learning: UI/Ux design,Data Science and GitHub Actions
+## ��️ Skills &amp; Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-
+badge&amp;logo=java&amp;logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-
+badge&amp;logo=spring-boot&amp;logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-
+badge&amp;logo=mongodb&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-
+badge&amp;logo=git&amp;logoColor=white)
+## �� GitHub Stats
+![GitHub Stats](https://github-readme-
+stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-
+langs/?username=renukacsit&amp;layout=compact)
+## �� Connect with Me- ✉️ Email: ranognay@gmail.com- �� LinkedIn: [ranogna
+Profile](https://linkedin.com/in/ranogna)
